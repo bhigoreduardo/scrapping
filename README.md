@@ -1,3 +1,9 @@
+# Run:
+
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
 --variavel:
   [patrimonio_liquido]
   [receita_liquida]
